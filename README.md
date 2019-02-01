@@ -2,6 +2,6 @@
 個人の遊び開発です。  
 FTP-syncの試しをします。
 
-##DEMO
+## DEMO
 
 <https://mp-webmagic.jp/test/ff14reishiki/>
